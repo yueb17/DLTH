@@ -1,7 +1,7 @@
 # Dual Lottery Ticket Hypothesis
 
 This repository is for our ICLR'22 paper:
-> Dual Lottery Ticket Hypothesis \
+> Dual Lottery Ticket Hypothesis [arXiv](https://arxiv.org/abs/2203.04248) \
 > [Yue Bai](https://yueb17.github.io/), [Huan Wang](http://huanwang.tech/), [Zhiqiang Tao](http://ztao.cc/), [Kunpeng Li](https://kunpengli1994.github.io/), and [Yun Fu](http://www1.ece.neu.edu/~yunfu/)
 
 This paper articulates a Dual Lottery Ticket Hypothesis (DLTH) as a dual format of original Lottery Ticket Hypothesis (LTH). Correspondingly, a simple regularization based sparse network training strategy, Random Sparse Network Transformation (RST), is proposed to validate DLTH and enhance sparse network training.
