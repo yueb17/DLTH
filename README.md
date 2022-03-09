@@ -34,5 +34,13 @@ We refer to the following repositories for our implementations: [Regularization-
 ## Reference
 Please cite this in your publication if our work helps your research. Should you have any questions, welcome to reach out to Yue Bai (bai.yue@northeastern.edu).
 
+```
+@inproceedings{bai2021dual,
+  title={Dual Lottery Ticket Hypothesis},
+  author={Bai, Yue and Wang, Huan and TAO, ZHIQIANG and Li, Kunpeng and Fu, Yun},
+  booktitle={International Conference on Learning Representations},
+  year={2021}
+}
+```
 
 
